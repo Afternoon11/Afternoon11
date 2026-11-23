@@ -1,46 +1,49 @@
-# Hi, I'm Afternoon11 👋
+# Hi, I'm Affan 👋
 
-## ☁️ Cloud & Cybersecurity Enthusiast
+### Cloud Computing | Cybersecurity | Python
 
-I build practical projects to strengthen my skills in **AWS, cloud security, networking, and Python automation**. My work focuses on understanding systems, identifying risks, and turning security concepts into hands-on implementations.
+I'm a student building practical skills in **AWS, cloud security, networking, Linux, and Python**. I learn by creating hands-on projects, documenting what I test, and improving my understanding of how technology works.
 
-[![GitHub followers](https://img.shields.io/github/followers/Afternoon11?style=for-the-badge&logo=github&color=181717)](https://github.com/Afternoon11?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Afternoon11&style=for-the-badge&color=0e75b6)](https://github.com/Afternoon11)
+[![GitHub followers](https://img.shields.io/github/followers/Afternoon11?style=flat-square&logo=github)](https://github.com/Afternoon11?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Afternoon11&style=flat-square)](https://github.com/Afternoon11)
 
-## 🚀 Featured Projects
+---
 
-- [**Windows NTLM/SAM Security Analysis**](https://github.com/Afternoon11/Windows-NTLM-SAM-Security-Analysis) — Research project covering Windows authentication and credential security concepts.
-- [**Creating IAM Policies and EC2 Instances**](https://github.com/Afternoon11/CREATING-IAM-POLICIES-AND-EC2-INSTANCES) — Practical AWS lab covering identity management and EC2 provisioning.
-- [**AWS Static Web Hosting**](https://github.com/Afternoon11/AWS-STATIC-WEB-HOSTING) — Hosting a static website on AWS and documenting the process.
-- [**Simple Network Scanner**](https://github.com/Afternoon11/Simple-Network-Scanner) — Python utility for discovering and identifying devices on a network.
-- [**Image Metadata Remover**](https://github.com/Afternoon11/Image-Metadata-Remover) — Python tool for removing sensitive metadata from images.
+## Featured Projects
 
-## 🛠️ Technologies & Tools
+| Project | Overview |
+|---|---|
+| [NetProbe CLI](https://github.com/Afternoon11/Simple-Network-Scanner) | Python command-line tool for authorized network inventory, TCP port checks, and JSON/CSV reports. |
+| [Image Metadata Remover](https://github.com/Afternoon11/Image-MetaData-Remover) | Python CLI for inspecting image metadata and creating cleaned copies. |
+| [AWS IAM & EC2 Lab](https://github.com/Afternoon11/CREATING-IAM-POLICIES-AND-EC2-INSTANCES) | Hands-on learning project covering IAM users, groups, policies, EC2 instances, and access testing. |
+| [AWS Static Website Hosting](https://github.com/Afternoon11/AWS-STATIC-WEB-HOSTING) | Practical project documenting static website hosting with Amazon S3. |
+| [Windows NTLM Security Analysis](https://github.com/Afternoon11/Windows-NTLM-SAM-Security-Analysis) | Defensive learning project exploring NTLM hash security and password-audit results. |
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Tools & Technologies
 
-## 📚 Current Focus
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- Amazon Web Services (IAM, EC2, S3, networking, and security)
-- Cybersecurity fundamentals and defensive analysis
-- Python scripting and security automation
-- Building well-documented, reproducible projects
+## Current Learning Goals
 
-## 📊 GitHub Activity
+- AWS fundamentals: IAM, EC2, S3, and cloud networking
+- Defensive cybersecurity and authentication concepts
+- Linux command-line skills
+- Python scripting and automation
+- Secure configuration and clear technical documentation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afternoon11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
+## How I Build
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afternoon11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- Practice in personal or explicitly authorized lab environments.
+- Document the goal, setup, steps, results, and lessons learned.
+- Avoid publishing credentials, tokens, private data, or sensitive system details.
+- Improve projects through testing, feedback, and iteration.
 
-## 🤝 Connect
+---
 
-- Explore my projects: [github.com/Afternoon11](https://github.com/Afternoon11)
-- Open to learning, collaboration, and cybersecurity opportunities.
+Thanks for visiting my profile. Feel free to explore my repositories and follow my learning journey.
+
+**[Explore all repositories →](https://github.com/Afternoon11?tab=repositories)**
