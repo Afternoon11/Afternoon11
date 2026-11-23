@@ -27,6 +27,39 @@ I'm a student building practical skills in **AWS, cloud security, networking, Li
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+
+
+## Certification
+
+[![TryHackMe SEC0](https://img.shields.io/badge/TryHackMe-SEC0%20Certified-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+
+**TryHackMe Pre Security (SEC0)** — completed the exam requirements and demonstrated assessed foundational security knowledge and practical skills. Issued **27 July 2026**.
+
+> Certificate holder: Muhammad Affan. The certificate was issued by TryHackMe.
+
+## Learning Roadmap
+
+```mermaid
+flowchart LR
+ A[Cloud Fundamentals] --> B[AWS IAM & EC2]
+ B --> C[S3 Hosting & Permissions]
+ D[Python] --> E[Security Tools]
+ E --> F[Network & Windows Security Labs]
+ C --> G[Documented Projects]
+ F --> G
+```
+
+## Project Portfolio
+
+```mermaid
+flowchart TD
+ A[Python Projects] --> B[NetProbe CLI]
+ A --> C[Image Metadata Cleaner]
+ D[AWS Labs] --> E[IAM & EC2]
+ D --> F[S3 Static Hosting]
+ G[Security Learning] --> H[NTLM Hash Security Analysis]
+```
+
 ## Current Learning Goals
 
 - AWS fundamentals: IAM, EC2, S3, and cloud networking
