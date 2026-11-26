@@ -9,9 +9,10 @@ Professional certifications and training achievements.
 - **Valid through:** July 13, 2029
 - **Verification:** [CompTIA certificate verification](https://verify.CompTIA.org)
 
-## TryHackMe Cyber Security 101 (SEC1)
+## TryHackMe Pre Security (SEC0)
 - **Issuer:** TryHackMe
-- **Credential:** Cyber Security 101 (SEC1)
-- Completed the exam requirements and demonstrated assessed cybersecurity knowledge and practical skills.
+- **Credential:** Pre Security (SEC0)
+- **Issued:** July 27, 2026
+- Completed the exam requirements and demonstrated assessed knowledge and practical skills.
 
 > Original certificate PDFs are retained by the certificate holder. This repository provides a public credential summary.
