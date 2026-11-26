@@ -29,14 +29,32 @@ I'm a student building practical skills in **AWS, cloud security, networking, Li
 
 
 
-## Certifications
+## 🏆 Certifications
 
-| Certification | Issuer | Credential / validity |
-|---|---|---|
-| **Security+** | CompTIA | SY0-701 · Certified July 13, 2026 · Valid through July 13, 2029 |
-| **Cyber Security 101 (SEC1)** | TryHackMe | Exam requirements completed; assessed knowledge and practical skills |
+<div align="center">
 
-[View certification portfolio and verification info](https://github.com/Afternoon11/Afternoon11/tree/main/certifications)
+### CompTIA Security+ (SY0-701)
+![CompTIA Security+ certificate preview](certifications/images/security-plus.svg)
+
+**CompTIA** · Issued July 13, 2026 · Valid through July 13, 2029
+
+---
+
+### TryHackMe Cyber Security 101 (SEC1)
+![TryHackMe SEC1 certificate preview](certifications/images/tryhackme-sec1.svg)
+
+**TryHackMe** · Issued October 1, 2026
+
+---
+
+### TryHackMe Pre Security (SEC0)
+![TryHackMe SEC0 certificate preview](certifications/images/tryhackme-sec0.svg)
+
+**TryHackMe** · Issued July 27, 2026
+
+</div>
+
+[View certification portfolio](https://github.com/Afternoon11/Afternoon11/tree/main/certifications)
 
 ## Learning Roadmap
 
