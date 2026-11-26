@@ -29,13 +29,14 @@ I'm a student building practical skills in **AWS, cloud security, networking, Li
 
 
 
-## Certification
+## Certifications
 
-[![TryHackMe SEC0](https://img.shields.io/badge/TryHackMe-SEC0%20Certified-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+| Certification | Issuer | Credential / validity |
+|---|---|---|
+| **Security+** | CompTIA | SY0-701 · Certified July 13, 2026 · Valid through July 13, 2029 |
+| **Cyber Security 101 (SEC1)** | TryHackMe | Exam requirements completed; assessed knowledge and practical skills |
 
-**TryHackMe Pre Security (SEC0)** — completed the exam requirements and demonstrated assessed foundational security knowledge and practical skills. Issued **27 July 2026**.
-
-> Certificate holder: Muhammad Affan. The certificate was issued by TryHackMe.
+[View certification portfolio and verification info](https://github.com/Afternoon11/Afternoon11/tree/main/certifications)
 
 ## Learning Roadmap
 
